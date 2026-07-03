@@ -1,4 +1,4 @@
-# 
+# Novo LogicFlow baixador. Baixe e instale com processamento em lote e multilíngue — rápido, seguro e fácil de usar.
 
 
 
